@@ -1,0 +1,5 @@
+owner = FLO
+controller = FLO
+add_core = FLO
+trade_goods = cattle
+life_rating = 15

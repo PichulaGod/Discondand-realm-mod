@@ -1,0 +1,6 @@
+owner = CEM
+controller = CEM
+add_core = CEM
+trade_goods = tobacco
+naval_base = 1
+life_rating = 35

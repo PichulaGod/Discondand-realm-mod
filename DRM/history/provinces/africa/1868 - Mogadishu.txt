@@ -1,0 +1,12 @@
+owner = JES
+controller = JES
+add_core = JES
+add_core = FLO
+trade_goods = cattle
+life_rating = 35
+1861.1.1 = {
+	owner = ZAN
+	controller = ZAN
+	add_core = ZAN
+}
+

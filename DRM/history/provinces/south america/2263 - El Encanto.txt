@@ -1,0 +1,6 @@
+owner = LNZ
+controller = LNZ
+add_core = LNZ
+add_core = LNS
+trade_goods = timber
+life_rating = 25

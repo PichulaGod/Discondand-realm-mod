@@ -1,0 +1,3 @@
+owner = MENcontroller = MENadd_core = MENadd_core = MNZ
+trade_goods = fruit
+life_rating = 45

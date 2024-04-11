@@ -1,0 +1,29 @@
+political_decisions = {
+	XZ_annex_luccas = {
+		picture = conquest_luccas
+		potential = {
+			tag = FRC
+			exists = LUC
+		}
+		
+		allow = {
+			is_greater_power = yes
+			war = no
+			LUC = {
+			in_sphere = THIS
+				}
+			}
+			
+		effect = {
+			prestige = 20
+			inherit = LUC
+			any_owned = {
+				limit = {
+					is_core = LUC
+					NOT = { is_core = FRC }
+				}
+				add_core = FRC
+				set_country_flag = XZ_annexed_luccas
+		}
+	}
+}

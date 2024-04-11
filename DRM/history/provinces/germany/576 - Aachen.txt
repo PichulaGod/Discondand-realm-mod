@@ -1,0 +1,9 @@
+owner = REN
+controller = REN
+add_core = REN
+add_core = PRU
+add_core = GER
+add_core = RIN
+trade_goods = coal
+life_rating = 40
+1861.1.1 = { railroad = 3 }

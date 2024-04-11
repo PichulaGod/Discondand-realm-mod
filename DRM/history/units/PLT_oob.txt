@@ -1,0 +1,136 @@
+leader = {
+	name = "Valencia Melgarejo"
+	date = 1860.1.1
+	type = land
+	personality = bastard
+	background = corrupt
+	prestige = 0.1
+}
+
+army = {
+	name = "Armada de Polentia"
+	location = 2312
+	regiment = {
+		name= "1. Fanteria di Linea - Re e Regina"
+		type = infantry
+		home = 2312
+	}
+
+    regiment = {
+		name= "3. fanteria di Linea"
+		type = infantry
+		home = 2312
+	}
+	
+	regiment = {
+		name= "2. Fanteria di Linea - Duca di Calabria"
+		type = infantry
+		home = 2314
+	}
+
+	regiment = {
+		name= "3. Fanteria di Linea - Duca di Noto"
+		type = infantry
+		home = 2310
+	}
+
+	regiment = {
+		name= "4. Fanteria di Linea"
+		type = artillery
+		home = 2319
+	}
+
+	regiment = {
+		name= "1. Cavalleria di Linea"
+		type = hussar
+		home = 2280
+	}
+
+	regiment = {
+		name= "2. artillery di Linea"
+		type = artillery
+		home = 2311
+	}
+
+	regiment = {
+		name= "3. artillery di Linea"
+		type = artillery
+		home = 2314
+	}
+
+regiment = {
+		name= "3. artillery di Linea"
+		type = artillery
+		home = 2314
+	}
+	
+	regiment = {
+		name= "3. artillery di Linea"
+		type = artillery
+		home = 2316
+	}
+}
+
+army = {
+	name = "2da Armada de Polentia"
+	location = 2310
+	regiment = {
+		name= "1. Fanteria di Linea - Re e Regina"
+		type = infantry
+		home = 2312
+	}
+
+    regiment = {
+		name= "3. fanteria di Linea"
+		type = infantry
+		home = 2312
+	}
+	
+	regiment = {
+		name= "2. Fanteria di Linea - Duca di Calabria"
+		type = infantry
+		home = 2314
+	}
+
+	regiment = {
+		name= "3. Fanteria di Linea - Duca di Noto"
+		type = infantry
+		home = 2310
+	}
+
+	regiment = {
+		name= "4. Fanteria di Linea"
+		type = artillery
+		home = 2319
+	}
+
+	regiment = {
+		name= "1. Cavalleria di Linea"
+		type = hussar
+		home = 2280
+	}
+
+	regiment = {
+		name= "2. artillery di Linea"
+		type = artillery
+		home = 2311
+	}
+
+	regiment = {
+		name= "3. artillery di Linea"
+		type = artillery
+		home = 2314
+	}
+
+regiment = {
+		name= "3. artillery di Linea"
+		type = artillery
+		home = 2314
+	}
+	
+	regiment = {
+		name= "3. artillery di Linea"
+		type = artillery
+		home = 2316
+	}
+}

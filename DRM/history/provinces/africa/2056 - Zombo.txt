@@ -1,0 +1,5 @@
+owner = FLO
+controller = FLO
+add_core = FLO
+trade_goods = coffee
+life_rating = 15

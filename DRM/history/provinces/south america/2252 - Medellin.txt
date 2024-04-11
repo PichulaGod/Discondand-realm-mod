@@ -1,0 +1,6 @@
+owner = LNZ
+controller = LNZ
+add_core = LNZ
+add_core = LNS
+trade_goods = coffee
+life_rating = 30

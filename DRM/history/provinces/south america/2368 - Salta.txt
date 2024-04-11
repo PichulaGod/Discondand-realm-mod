@@ -1,0 +1,10 @@
+owner = MEN
+
+controller = MEN
+
+add_core = MEN
+add_core = BOL
+
+add_core = JUY
+trade_goods = wool
+life_rating = 35

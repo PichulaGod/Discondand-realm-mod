@@ -1,0 +1,6 @@
+owner = ZNC
+controller = ZNC
+add_core = ZNC
+add_core = LNS
+trade_goods = fruit
+life_rating = 30

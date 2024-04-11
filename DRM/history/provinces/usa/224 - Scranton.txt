@@ -1,0 +1,8 @@
+owner = PRX
+
+controller = PRX
+
+add_core = PRX
+trade_goods = grain
+life_rating = 35
+1861.1.1 = { railroad = 3 }

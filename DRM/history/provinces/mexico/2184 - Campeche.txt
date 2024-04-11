@@ -1,0 +1,3 @@
+owner = ENCcontroller = ENCadd_core = ENC
+trade_goods = timber
+life_rating = 30

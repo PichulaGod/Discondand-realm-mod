@@ -1,0 +1,7 @@
+owner = ORA
+controller = ORA
+add_core = ORA
+add_core = SAF
+add_core = FLO
+trade_goods = iron
+life_rating = 35

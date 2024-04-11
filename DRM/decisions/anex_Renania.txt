@@ -1,0 +1,26 @@
+political_decisions = {
+	XZ_anexed_renania = {
+	picture = form_south_german_confederation
+		potential = {
+			tag = PRU
+			tag = LUX
+		NOT = {
+				has=country_flag = anexed_renania
+				}
+			civilized = yes
+			exists = REN
+		}
+		allow = {
+			war = no
+			REN = { vassal_of = THIS }
+			year = 1843
+		}
+		effect = {
+			inherit = REN
+			set_country_flag = anexed_renania
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+}

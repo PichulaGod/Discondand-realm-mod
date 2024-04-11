@@ -1,0 +1,5 @@
+owner = RUP
+controller = RUP
+add_core = RUP
+trade_goods = fruit
+life_rating = 35

@@ -1,0 +1,3 @@
+add_core = FLO
+trade_goods = fruit
+life_rating = 25

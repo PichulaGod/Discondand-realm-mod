@@ -1,0 +1,62 @@
+political_decisions = {
+	XZ_form_Menstria = {
+	picture = Menstria_lands_returned	
+	form_Menstria = {
+		potential = {
+			OR = {
+				tag = MEN
+				tag = LNZ
+			}
+			NOT = {
+				exists = MNZ
+			}
+			NOT = {
+				has_country_flag = portugal_america
+			}
+			ai = no
+		}
+		allow = {
+			war = no
+			OR = {
+				LNZ = {
+				all_core = {
+					owner = {
+						OR = {
+							tag = THIS
+							in_sphere = THIS
+							vassal_of = THIS
+						}
+					}
+				}
+			}
+			}
+			MEN = {
+				all_core = {
+					owner = {
+						OR = {
+							tag = THIS
+							in_sphere = THIS
+							vassal_of = THIS
+						}
+					}
+				}
+			}
+		}
+		
+		effect = {
+			prestige = 25
+			change_tag = MNZ
+			add_accepted_culture = south_andean
+			add_accepted_culture = afro-caribeno
+			add_accepted_culture = platinean
+			add_accepted_culture = Caribeno
+			add_accepted_culture = quechua
+			add_accepted_culture = Lenstriana
+			inherit = LNZ
+			inherit = MEN
+			inherit = LNS
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}

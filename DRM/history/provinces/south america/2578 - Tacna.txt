@@ -1,0 +1,5 @@
+owner = IMP
+controller = IMP
+add_core = IMP
+trade_goods = wool
+life_rating = 35

@@ -1,0 +1,7 @@
+owner = CEM
+controller = CEM
+add_core = CEM
+trade_goods = sulphur
+life_rating = 35
+colonial = 2
+1861.1.1 = { railroad = 2 }

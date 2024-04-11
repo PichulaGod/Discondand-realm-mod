@@ -1,0 +1,9 @@
+owner = CEM
+controller = CEM
+add_core = CEM
+trade_goods = coffee
+life_rating = 30
+1861.1.1 = {
+	owner = NIC
+	controller = NIC
+}

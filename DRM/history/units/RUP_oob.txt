@@ -1,0 +1,127 @@
+army = {
+	name = "Armada del zar"
+	location = 2344
+	regiment = {
+		name= "1. Fanteria di Linea - Re e Regina"
+		type = infantry
+		home = 2348
+	}
+
+    regiment = {
+		name= "3. fanteria di Linea"
+		type = infantry
+		home = 2348
+	}
+	
+	regiment = {
+		name= "2. Fanteria di Linea - Duca di Calabria"
+		type = infantry
+		home = 2348
+	}
+
+	regiment = {
+		name= "3. Fanteria di Linea - Duca di Noto"
+		type = infantry
+		home = 2348
+	}
+
+	regiment = {
+		name= "4. Fanteria di Linea"
+		type = artillery
+		home = 2348
+	}
+
+	regiment = {
+		name= "1. Cavalleria di Linea"
+		type = hussar
+		home = 2344
+	}
+
+	regiment = {
+		name= "2. artillery di Linea"
+		type = artillery
+		home = 2344
+	}
+
+	regiment = {
+		name= "3. artillery di Linea"
+		type = artillery
+		home = 2344
+	}
+
+regiment = {
+		name= "3. artillery di Linea"
+		type = artillery
+		home = 2345
+	}
+	
+	regiment = {
+		name= "3. artillery di Linea"
+		type = artillery
+		home = 2346
+	}
+}
+
+army = {
+	name = "2 Armada de Lenstria"
+	location = 2348
+	regiment = {
+		name= "1. Fanteria di Linea - Re e Regina"
+		type = infantry
+		home = 2347
+	}
+
+    regiment = {
+		name= "3. fanteria di Linea"
+		type = infantry
+		home = 2344
+	}
+	
+	regiment = {
+		name= "2. Fanteria di Linea - Duca di Calabria"
+		type = infantry
+		home = 2284
+	}
+
+	regiment = {
+		name= "3. Fanteria di Linea - Duca di Noto"
+		type = infantry
+		home = 2344
+	}
+
+	regiment = {
+		name= "4. Fanteria di Linea"
+		type = artillery
+		home = 2344
+	}
+
+	regiment = {
+		name= "1. Cavalleria di Linea"
+		type = hussar
+		home = 2344
+	}
+
+	regiment = {
+		name= "2. artillery di Linea"
+		type = artillery
+		home = 2344
+	}
+
+	regiment = {
+		name= "3. artillery di Linea"
+		type = artillery
+		home = 2344
+	}
+
+regiment = {
+		name= "3. artillery di Linea"
+		type = artillery
+		home = 2360
+	}
+	
+	regiment = {
+		name= "3. artillery di Linea"
+		type = artillery
+		home = 2360
+	}
+}

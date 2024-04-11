@@ -1,0 +1,5 @@
+owner = PLT
+controller = PLT
+add_core = PLT
+trade_goods = iron
+life_rating = 45

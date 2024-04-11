@@ -1,0 +1,20 @@
+givegrants_title;Get Grants!;Get Grants!;Get Grants!;;Consigue dinero!;;;;;;;;;x
+givegrants_desc;Get Grants by other players!;Get Grants by other players!;Get Grants by other players!;;Consigue dinero de otros jugadores!;;;;;;;;;x
+EVTNAME25193;$FROMCOUNTRY$ wants money;$FROMCOUNTRY$ wants money;$FROMCOUNTRY$ wants money;;$FROMCOUNTRY$ quiere dinero;;;;;;;;;x
+EVTDESC25193;$FROMCOUNTRY$ wants money;$FROMCOUNTRY$ wants money;$FROMCOUNTRY$ wants money;;$FROMCOUNTRY$ quiere dinero;;;;;;;;;x
+EVTOPTA58301;Yes;Yes;Yes;;Si;;;;;;;;;x
+EVTOPTB58301;No;No;No;;No;;;;;;;;;x
+EVTOPTA58302;Yes!;Yes!;Yes!;;Si!;;;;;;;;;x
+EVTOPTA58303;Noo! :(;Noo! :(;Noo! :(;;Noo! :(;;;;;;;;;x
+EVTOPTA25193;Nah;Nah;Nah;;Nah;;;;;;;;;x
+EVTOPTB25193;1k;1k;1k;;1k;;;;;;;;;x
+EVTOPTC25193;10k;10k;10k;;10k;;;;;;;;;x
+EVTOPTD25193;100k;100k;100k;;100k;;;;;;;;;x
+EVTOPTE25193;1M;1M;1M;;1M;;;;;;;;;x
+EVTOPTF25193;2M;2M;2M;;2M;;;;;;;;;x
+EVTOPTA25221;Yes!!;Yes!!;Yes!!;;Si!!;;;;;;;;;x
+EVTOPTA25020;Yes!!;Yes!!;Yes!!;;Si!!;;;;;;;;;x
+EVTOPTA58019;OK;OK;OK;;Vale;;;;;;;;;x
+EVTOPTA58020;OK;OK;OK;;Vale;;;;;;;;;x
+EVTNAME25221;Goods for you baby;Goods for you baby;Goods for you baby;;Recuros para ti beiby;;;;;;;;;x
+EVTDESC25221;Goods for you baby;Goods for you baby;Goods for you baby;;Recuros para ti beiby;;;;;;;;;x

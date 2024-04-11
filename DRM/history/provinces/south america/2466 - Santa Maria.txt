@@ -1,0 +1,5 @@
+owner = RUP
+controller = RUP
+add_core = RUP
+trade_goods = timber
+life_rating = 35

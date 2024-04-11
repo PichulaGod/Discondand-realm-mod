@@ -1,0 +1,3 @@
+owner = PLTcontroller = PLTadd_core = PlT
+trade_goods = cattle
+life_rating = 30

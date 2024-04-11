@@ -1,0 +1,7 @@
+owner = ZUL
+controller = ZUL
+add_core = ZUL
+add_core = SAF
+add_core = FLO
+trade_goods = grain
+life_rating = 35

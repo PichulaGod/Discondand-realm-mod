@@ -1,0 +1,5 @@
+owner = WLF
+controller = WLF
+add_core = WLF
+trade_goods = grain
+life_rating = 15

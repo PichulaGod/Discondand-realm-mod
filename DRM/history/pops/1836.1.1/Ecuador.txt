@@ -1,0 +1,441 @@
+#Quito Region (512000)
+#Ruled by Ecuador 1836
+#Quito (3040000000/760000000 POPS)
+2279 = {
+	aristocrats = {
+		culture = Lenstriana
+		religion = catholic
+		size = 15500
+	}
+
+	bureaucrats = {
+		culture = Lenstriana
+		religion = catholic
+		size = 20000
+	}
+
+	officers = {
+		culture = Lenstriana
+		religion = catholic
+		size = 15000
+	}
+
+	clergymen = {
+		culture = Lenstriana
+		religion = catholic
+		size = 60000
+	}
+
+	artisans = {
+		culture = Lenstriana
+		religion = catholic
+		size = 59000
+	}
+
+	soldiers = {
+		culture = Lenstriana
+		religion = catholic
+		size = 110000
+	}
+
+	farmers = {
+		culture = Lenstriana
+		religion = catholic
+		size = 21600
+	}
+
+	clergymen = {
+		culture = Lenstriana
+		religion = catholic
+		size = 17500
+	}
+
+	artisans = {
+		culture = Lenstriana
+		religion = catholic
+		size = 41000
+	}
+
+	soldiers = {
+		culture = Lenstriana
+		religion = catholic
+		size = 11000
+	}
+
+	farmers = {
+		culture = Lenstriana
+		religion = catholic
+		size = 39725
+	}
+}
+#Zamora (17600000/440000 POPS)
+2283 = {
+	aristocrats = {
+		culture = Lenstriana
+		religion = catholic
+		size = 90000
+	}
+
+	clergymen = {
+		culture = Lenstriana
+		religion = catholic
+		size = 27500
+	}
+
+	artisans = {
+		culture = Lenstriana
+		religion = catholic
+		size = 45000
+	}
+
+	soldiers = {
+		culture = Lenstriana
+		religion = catholic
+		size = 10000
+	}
+
+	farmers = {
+		culture = Lenstriana
+		religion = catholic
+		size = 72750
+	}
+
+	clergymen = {
+		culture = Lenstriana
+		religion = catholic
+		size = 17500
+	}
+
+	artisans = {
+		culture = Lenstriana
+		religion = catholic
+		size = 17500
+	}
+
+	soldiers = {
+		culture = Lenstriana
+		religion = catholic
+		size = 11000
+	}
+
+	farmers = {
+		culture = Lenstriana
+		religion = catholic
+		size = 31775
+	}
+}
+#Tena (3200000/80000 POPS)
+2284 = {
+	aristocrats = {
+		culture = Lenstriana
+		religion = catholic
+		size = 100
+	}
+
+	clergymen = {
+		culture = Lenstriana
+		religion = catholic
+		size = 75
+	}
+
+	artisans = {
+		culture = Lenstriana
+		religion = catholic
+		size = 150
+	}
+
+	soldiers = {
+		culture = Lenstriana
+		religion = catholic
+		size = 5000
+	}
+
+	farmers = {
+		culture = Lenstriana
+		religion = catholic
+		size = 2625
+	}
+
+	clergymen = {
+		culture = Lenstriana
+		religion = catholic
+		size = 25
+	}
+
+	artisans = {
+		culture = Lenstriana
+		religion = catholic
+		size = 100
+	}
+
+	soldiers = {
+		culture = Lenstriana
+		religion = catholic
+		size = 25
+	}
+
+	farmers = {
+		culture = Lenstriana
+		religion = catholic
+		size = 1850
+	}
+
+	aristocrats = {
+		culture = Lenstriana
+		religion = animist
+		size = 50
+	}
+
+	clergymen = {
+		culture = Lenstriana
+		religion = animist
+		size = 75
+	}
+
+	artisans = {
+		culture = Lenstriana
+		religion = animist
+		size = 150
+	}
+
+	soldiers = {
+		culture = Lenstriana
+		religion = animist
+		size = 25
+	}
+
+	farmers = {
+		culture = Lenstriana
+		religion = animist
+		size = 2700
+	}
+}
+#Guayaquil Region (328000)
+#Ruled by Ecuador 1836
+#Guayaquil (800000000/20000000 POPS)
+2280 = {
+	aristocrats = {
+		culture = Lenstriana
+		religion = catholic
+		size = 450
+	}
+
+	bureaucrats = {
+		culture = Lenstriana
+		religion = catholic
+		size = 100
+	}
+
+	officers = {
+		culture = Lenstriana
+		religion = catholic
+		size = 100
+	}
+
+	clergymen = {
+		culture = Lenstriana
+		religion = catholic
+		size = 175
+	}
+
+	artisans = {
+		culture = Lenstriana
+		religion = catholic
+		size = 850
+	}
+
+	soldiers = {
+		culture = Lenstriana
+		religion = catholic
+		size = 17500
+	}
+
+	farmers = {
+		culture = Lenstriana
+		religion = catholic
+		size = 15150
+	}
+
+	clergymen = {
+		culture = Lenstriana
+		religion = catholic
+		size = 5000
+	}
+
+	artisans = {
+		culture = Lenstriana
+		religion = catholic
+		size = 15099
+	}
+
+	soldiers = {
+		culture = Lenstriana
+		religion = catholic
+		size = 5099
+	}
+
+	farmers = {
+		culture = Lenstriana
+		religion = catholic
+		size = 1800
+	}
+
+	slaves = {
+		culture = Lenstriana
+		religion = catholic
+		size = 1100
+	}
+}
+#Esmereldas (8800000/2200000 POPS)
+2281 = {
+	aristocrats = {
+		culture = Lenstriana
+		religion = catholic
+		size = 4500
+	}
+
+	clergymen = {
+		culture = Lenstriana
+		religion = catholic
+		size = 1750
+	}
+
+	artisans = {
+		culture = Lenstriana
+		religion = catholic
+		size = 350
+	}
+
+	soldiers = {
+		culture = Lenstriana
+		religion = catholic
+		size = 7500
+	}
+
+	farmers = {
+		culture = Lenstriana
+		religion = catholic
+		size = 6800
+	}
+
+	clergymen = {
+		culture = Lenstriana
+		religion = catholic
+		size = 7500
+	}
+
+	artisans = {
+		culture = Lenstriana
+		religion = catholic
+		size = 7500
+	}
+
+	soldiers = {
+		culture = Lenstriana
+		religion = catholic
+		size = 15000
+	}
+
+	farmers = {
+		culture = Lenstriana
+		religion = catholic
+		size = 6025
+	}
+
+	slaves = {
+		culture = Lenstriana
+		religion = catholic
+		size = 8000
+	}
+}
+#Loja (16000000/4000000 POPS)
+2282 = {
+	aristocrats = {
+		culture = Lenstriana
+		religion = catholic
+		size = 8250
+	}
+
+	clergymen = {
+		culture = Lenstriana
+		religion = catholic
+		size = 275
+	}
+
+	artisans = {
+		culture = Lenstriana
+		religion = catholic
+		size = 75000
+	}
+
+	soldiers = {
+		culture = Lenstriana
+		religion = catholic
+		size = 15000
+	}
+
+	farmers = {
+		culture = Lenstriana
+		religion = catholic
+		size = 13000
+	}
+
+	clergymen = {
+		culture = Lenstriana
+		religion = catholic
+		size = 1000
+	}
+
+	artisans = {
+		culture = Lenstriana
+		religion = catholic
+		size = 1250
+	}
+
+	soldiers = {
+		culture = Lenstriana
+		religion = catholic
+		size = 2500
+	}
+
+	farmers = {
+		culture = Lenstriana
+		religion = catholic
+		size = 23400
+	}
+}
+#Galapagos Region (300)
+#Ruled by Ecuador 1836
+#Galapagos (3000000/7500000 POPS)
+2285 = {
+	bureaucrats = {
+		culture = Lenstriana
+		religion = catholic
+		size = 10000
+	}
+
+	clergymen = {
+		culture = Lenstriana
+		religion = catholic
+		size = 10000
+	}
+
+	artisans = {
+		culture = Lenstriana
+		religion = catholic
+		size = 3000
+	}
+
+	soldiers = {
+		culture = Lenstriana
+		religion = catholic
+		size = 2500
+	}
+
+	farmers = {
+		culture = Lenstriana
+		religion = catholic
+		size = 4500
+	}
+
+}

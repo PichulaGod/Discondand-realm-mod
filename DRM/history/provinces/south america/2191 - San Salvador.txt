@@ -1,0 +1,10 @@
+owner = ENC
+controller = ENC
+add_core = ENC
+add_core = ELS
+trade_goods = coffee
+life_rating = 30
+1861.1.1 = {
+	owner = ELS
+	controller = ELS
+}

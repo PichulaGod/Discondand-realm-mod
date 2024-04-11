@@ -1,0 +1,405 @@
+leader = {
+	name = "Garcia Moreno"
+	date = 1859.1.1
+	type = land
+	personality = deeply_religious
+	background = politician
+	prestige = 0.1
+}
+
+regiment = {
+		name= "3. artillery di Linea"
+		type = artillery
+		home = 2279
+	}
+	
+	regiment = {
+		name= "3. artillery di Linea"
+		type = artillery
+		home = 2279
+	}
+}
+
+army = {
+	name = " Armada de Lenstria"
+	location = 2279
+	regiment = {
+		name= "1. Fanteria di Linea - Re e Regina"
+		type = infantry
+		home = 2279
+	}
+
+    regiment = {
+		name= "3. fanteria di Linea"
+		type = infantry
+		home = 2279
+	}
+	
+	regiment = {
+		name= "2. Fanteria di Linea - Duca di Calabria"
+		type = infantry
+		home = 2279
+	}
+
+	regiment = {
+		name= "3. Fanteria di Linea - Duca di Noto"
+		type = infantry
+		home = 2279
+	}
+
+	regiment = {
+		name= "4. Fanteria di Linea"
+		type = artillery
+		home = 2279
+	}
+
+	regiment = {
+		name= "1. Cavalleria di Linea"
+		type = hussar
+		home =   
+	}
+
+	regiment = {
+		name= "2. artillery di Linea"
+		type = artillery
+		home = 2285
+	}
+
+	regiment = {
+		name= "3. artillery di Linea"
+		type = artillery
+		home = 2258
+	}
+
+regiment = {
+		name= "3. artillery di Linea"
+		type = artillery
+		home = 2279
+	}
+	
+	regiment = {
+		name= "3. artillery di Linea"
+		type = artillery
+		home = 2279
+	}
+}
+
+army = {
+	name = "2 Armada de Lenstria"
+	location = 2279
+	regiment = {
+		name= "1. Fanteria di Linea - Re e Regina"
+		type = infantry
+		home = 2279
+	}
+
+    regiment = {
+		name= "3. fanteria di Linea"
+		type = infantry
+		home = 2279
+	}
+	
+	regiment = {
+		name= "2. Fanteria di Linea - Duca di Calabria"
+		type = infantry
+		home = 2279
+	}
+
+	regiment = {
+		name= "3. Fanteria di Linea - Duca di Noto"
+		type = infantry
+		home = 2279
+	}
+
+	regiment = {
+		name= "4. Fanteria di Linea"
+		type = artillery
+		home = 2279
+	}
+
+	regiment = {
+		name= "1. Cavalleria di Linea"
+		type = hussar
+		home = 2280
+	}
+
+	regiment = {
+		name= "2. artillery di Linea"
+		type = artillery
+		home = 2285
+	}
+
+	regiment = {
+		name= "3. artillery di Linea"
+		type = artillery
+		home = 2258
+	}
+
+regiment = {
+		name= "3. artillery di Linea"
+		type = artillery
+		home = 2279
+	}
+	
+	regiment = {
+		name= "3. artillery di Linea"
+		type = artillery
+		home = 2259
+	}
+}
+
+army = {
+	name = " Armada de Lenstria"
+	location = 2279
+	regiment = {
+		name= "1. Fanteria di Linea - Re e Regina"
+		type = infantry
+		home = 2279
+	}
+
+    regiment = {
+		name= "3. fanteria di Linea"
+		type = infantry
+		home = 2281
+	}
+	
+	regiment = {
+		name= "2. Fanteria di Linea - Duca di Calabria"
+		type = infantry
+		home = 2284
+	}
+
+	regiment = {
+		name= "3. Fanteria di Linea - Duca di Noto"
+		type = infantry
+		home = 2284
+	}
+
+	regiment = {
+		name= "4. Fanteria di Linea"
+		type = artillery
+		home = 2279
+	}
+
+	regiment = {
+		name= "1. Cavalleria di Linea"
+		type = hussar
+		home = 2280
+	}
+
+	regiment = {
+		name= "2. artillery di Linea"
+		type = artillery
+		home = 2285
+	}
+
+	regiment = {
+		name= "3. artillery di Linea"
+		type = artillery
+		home = 2258
+	}
+
+regiment = {
+		name= "3. artillery di Linea"
+		type = artillery
+		home = 2279
+	}
+	
+	regiment = {
+		name= "3. artillery di Linea"
+		type = artillery
+		home = 2259
+	}
+}
+
+army = {
+	name = "3 Armada de Lenstria"
+	location = 2279
+	regiment = {
+		name= "1. Fanteria di Linea - Re e Regina"
+		type = infantry
+		home = 2281
+	}
+
+    regiment = {
+		name= "3. fanteria di Linea"
+		type = infantry
+		home = 2281
+	}
+	
+	regiment = {
+		name= "2. Fanteria di Linea - Duca di Calabria"
+		type = infantry
+		home = 2284
+	}
+
+	regiment = {
+		name= "3. Fanteria di Linea - Duca di Noto"
+		type = infantry
+		home = 2284
+	}
+
+	regiment = {
+		name= "4. Fanteria di Linea"
+		type = artillery
+		home = 2279
+	}
+
+	regiment = {
+		name= "1. Cavalleria di Linea"
+		type = hussar
+		home = 2280
+	}
+
+	regiment = {
+		name= "2. artillery di Linea"
+		type = artillery
+		home = 2279
+	}
+
+	regiment = {
+		name= "3. artillery di Linea"
+		type = artillery
+		home = 2258
+	}
+
+regiment = {
+		name= "3. artillery di Linea"
+		type = artillery
+		home = 2279
+	}
+	
+	regiment = {
+		name= "3. artillery di Linea"
+		type = artillery
+		home = 2259
+	}
+}
+
+army = {
+	name = " Armada de Lenstria"
+	location = 2279
+	regiment = {
+		name= "1. Fanteria di Linea - Re e Regina"
+		type = infantry
+		home = 2279
+	}
+
+    regiment = {
+		name= "3. fanteria di Linea"
+		type = infantry
+		home = 2281
+	}
+	
+	regiment = {
+		name= "2. Fanteria di Linea - Duca di Calabria"
+		type = infantry
+		home = 2284
+	}
+
+	regiment = {
+		name= "3. Fanteria di Linea - Duca di Noto"
+		type = infantry
+		home = 2284
+	}
+
+	regiment = {
+		name= "4. Fanteria di Linea"
+		type = artillery
+		home = 2279
+	}
+
+	regiment = {
+		name= "1. Cavalleria di Linea"
+		type = hussar
+		home = 2279
+	}
+
+	regiment = {
+		name= "2. artillery di Linea"
+		type = artillery
+		home = 2285
+	}
+
+	regiment = {
+		name= "3. Armada de Lenstria"
+		type = artillery
+		home = 2258
+	}
+
+regiment = {
+		name= "3. Armada de Lenstria"
+		type = artillery
+		home = 2279
+	}
+	
+	regiment = {
+		name= "3. Armada de Lenstria"
+		type = artillery
+		home = 2259
+	}
+}
+
+army = {
+	name = "4 Armada de Lenstria"
+	location = 2279
+	regiment = {
+		name= "1. Fanteria di Linea - Re e Regina"
+		type = infantry
+		home = 2279
+	}
+
+    regiment = {
+		name= "3. fanteria di Linea"
+		type = infantry
+		home = 2281
+	}
+	
+	regiment = {
+		name= "2. Fanteria di Linea - Duca di Calabria"
+		type = infantry
+		home = 2284
+	}
+
+	regiment = {
+		name= "3. Fanteria di Linea - Duca di Noto"
+		type = infantry
+		home = 2284
+	}
+
+	regiment = {
+		name= "4. Fanteria di Linea"
+		type = artillery
+		home = 2279
+	}
+
+	regiment = {
+		name= "1. Cavalleria di Linea"
+		type = hussar
+		home = 2280
+	}
+
+	regiment = {
+		name= "2. artillery di Linea"
+		type = artillery
+		home = 2279
+	}
+
+	regiment = {
+		name= "3. artillery di Linea"
+		type = artillery
+		home = 2279
+	}
+
+regiment = {
+		name= "3. artillery di Linea"
+		type = artillery
+		home = 2279
+	}
+	
+	regiment = {
+		name= "3. artillery di Linea"
+		type = artillery
+		home = 2279
+	}
+}

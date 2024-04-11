@@ -1,0 +1,63 @@
+form_gran_lenstria_title;English;French;German;Polish;Spanish;Italian;Swedish;Czech;Hungarian;Dutch;Portugese;Russian;Finnish;
+form_gran_lenstria_desc;English;French;German;Polish;Spanish;Italian;Swedish;Czech;Hungarian;Dutch;Portugese;Russian;Finnish;
+XZ_form_gran_lenstria_title;Restaurar el Poder robado ;;;;;;;;;;;;;
+XZ_form_gran_lenstria_desc;arriba papu despierta hay que Hornear unos momasos.;;;;;;;;;;;;;
+form_Menstria_title;English;French;German;Polish;Spanish;Italian;Swedish;Czech;Hungarian;Dutch;Portugese;Russian;Finnish;
+form_Menstria_desc;English;French;German;Polish;Spanish;Italian;Swedish;Czech;Hungarian;Dutch;Portugese;Russian;Finnish;
+XZ_form_Menstria_title;Unificar Menstria!! ;;;;;;;;;;;;;
+XZ_form_Menstria_desc;hemos decidido unificar ambas naciones para volverlas mas poderossas(no se me dan bien los discursos).;;;;;;;;;;;;;
+anexed_renania_title;English;French;German;Polish;Spanish;Italian;Swedish;Czech;Hungarian;Dutch;Portugese;Russian;Finnish;
+anexed_renania_desc;English;French;German;Polish;Spanish;Italian;Swedish;Czech;Hungarian;Dutch;Portugese;Russian;Finnish;
+XZ_anexed_renania_title;Formar el Rhinelad! ;;;;;;;;;;;;;
+XZ_anexed_renania_desc;Tras subyugar a los diversos pueblos vecinos.;;;;;;;;;;;;;
+givegrants_title;Get Grants!;Get Grants!;Get Grants!;;Consigue dinero!;;;;;;;;;x
+givegrants_desc;Get Grants by other players!;Get Grants by other players!;Get Grants by other players!;;Consigue dinero de otros jugadores!;;;;;;;;;x
+EVTNAME25193;$FROMCOUNTRY$ wants money;$FROMCOUNTRY$ wants money;$FROMCOUNTRY$ wants money;;$FROMCOUNTRY$ quiere dinero;;;;;;;;;x
+EVTDESC25193;$FROMCOUNTRY$ wants money;$FROMCOUNTRY$ wants money;$FROMCOUNTRY$ wants money;;$FROMCOUNTRY$ quiere dinero;;;;;;;;;x
+EVTOPTA58301;Yes;Yes;Yes;;Si;;;;;;;;;x
+EVTOPTB58301;No;No;No;;No;;;;;;;;;x
+EVTOPTA58302;Yes!;Yes!;Yes!;;Si!;;;;;;;;;x
+EVTOPTA58303;Noo! :(;Noo! :(;Noo! :(;;Noo! :(;;;;;;;;;x
+EVTOPTA25193;Nah;Nah;Nah;;Nah;;;;;;;;;x
+EVTOPTB25193;1k;1k;1k;;1k;;;;;;;;;x
+EVTOPTC25193;10k;10k;10k;;10k;;;;;;;;;x
+EVTOPTD25193;100k;100k;100k;;100k;;;;;;;;;x
+EVTOPTE25193;1M;1M;1M;;1M;;;;;;;;;x
+EVTOPTF25193;2M;2M;2M;;2M;;;;;;;;;x
+EVTOPTA25221;Yes!!;Yes!!;Yes!!;;Si!!;;;;;;;;;x
+EVTOPTA25020;Yes!!;Yes!!;Yes!!;;Si!!;;;;;;;;;x
+EVTOPTA58019;OK;OK;OK;;Vale;;;;;;;;;x
+EVTOPTA58020;OK;OK;OK;;Vale;;;;;;;;;x
+roman_tunisia_title;Get Tunisia!;Get Tunisia!;Get Tunisia!;;Consigue Tunisia!;;;;;;;;;x
+roman_tunisia_desc;Let's go for africa!;Let's go for africa!;Let's go for africa!;;Vamos a por Africa!;;;;;;;;;x
+roman_east_title;Expand to east!;Expand to east!;Expand to east!;;Expande hacia el este!;;;;;;;;;x
+roman_east_desc;Let's go for some territories from the east!;Let's go for some territories from the east!;Let's go for some territories from the east!;;Vamos a por algunos territorios del este!;;;;;;;;;x
+roman_extreme_east_title;Expand more to east!;Expand more to east!;Expand more to east!;;Expande mas hacia el este!;;;;;;;;;x
+roman_extreme_east_desc;Get more territories from the east!;Get more territories from the east!;Get more territories from the east!;;Consigue mas territorios del este!;;;;;;;;;x
+rome_balcans_title;Reclaim the balkans!;Reclaim the balkans!;Reclaim the balkans!;;Reclama los balcanes!;;;;;;;;;x
+rome_balcans_desc;The balkans are now reclaimed by the Roman Empire name!;The balkans are now reclaimed by the Roman Empire name!;The balkans are now reclaimed by the Roman Empire name!;;Los balkanes ahora son reclamadas bajo el nombre del Imperio Romano!;;;;;;;;;x
+rome_anatolia_title;Reclaim the anatolian peninsula!;Reclaim the anatolian peninsula!;Reclaim the anatolian peninsula!;;Reclama la peninsula de anatolia!;;;;;;;;;x
+rome_anatolia_desc;The anatolian peninsula was from a long time turk.. was..;The anatolian peninsula was from a long time turk.. was..;The anatolian peninsula was from a long time turk.. was..;;La peninsula de anatolia fue por un largo tiempo turco.. fue..;;;;;;;;;x
+constantinople_instanbul_title;Change the name of Instanbul to Constantinople!;Change the name of Instanbul to Constantinople!;Change the name of Instanbul to Constantinople!;;Cambia el nombre de Instanbul a Constantinopla;;;;;;;;;x
+constantinople_instanbul_desc;A better name is needed for that bad name!;A better name is needed for that bad name!;A better name is needed for that bad name!;;Un mejor nombre se necesita para ese sucio nombre!;;;;;;;;;x
+rome_england_title;Let's go for england!;Let's go for england!;Let's go for england!;;Vamos a por Inglaterra!;;;;;;;;;x
+rome_england_desc;By the Cesar name!;By the Cesar name!;By the Cesar name!;;Bajo el nombre de Cesar!;;;;;;;;;x
+roman_egypt_title;Reclaim Egypt!!;Reclaim Egypt!!;Reclaim Egypt!!;;Reclama Egipto!!;;;;;;;;;x
+roman_egypt_desc;These egyptians doesn't need to exist!;These egyptians doesn't need to exist!;These egyptians doesn't need to exist!;;Estos egipcios no necesitan existir!;;;;;;;;;x
+form_Roman_Empire_title;English;French;German;Polish;Spanish;Italian;Swedish;Czech;Hungarian;Dutch;Portugese;Russian;Finnish;
+form_Roman_Empire_desc;English;French;German;Polish;Spanish;Italian;Swedish;Czech;Hungarian;Dutch;Portugese;Russian;Finnish;
+roma_cap_title;English;French;German;Polish;Spanish;Italian;Swedish;Czech;Hungarian;Dutch;Portugese;Russian;Finnish;
+roma_cap_desc;English;French;German;Polish;Spanish;Italian;Swedish;Czech;Hungarian;Dutch;Portugese;Russian;Finnish;proclaim_romanempire_title;Proclaim the roman empire!;Proclaim the roman empire!;Proclaim the roman empire!;;Proclama el Imperio Romano!;;;;;;;;;x
+proclaim_romanempire_desc;Roma expanded a lot, but we can't be always a kingdom..;Roma expanded a lot, but we can't be always a kingdom..;Roma expanded a lot, but we can't be always a kingdom..;;Nos expandimos mucho, pero no siempre podemos ser un reino..;;;;;;;;;x
+roman_iberian_finish_title;Finish with iberia!;Finish with iberia!;Finish with iberia!;;Termina con iberia!;;;;;;;;;x
+roman_iberian_finish_desc;Now iberia will be for us!;Now iberia will be for us!;Now iberia will be for us!;;Ahora iberia sera nuestra!;;;;;;;;;x
+roman_north_africa_title;Roman North Africa!;Roman North Africa!;Roman North Africa!;;La Norte Africa Romana!;;;;;;;;;x
+roman_north_africa_desc;Let's go to the south mediterran!;Let's go to the south mediterran!;Let's go to the south mediterran!;;Vamos a por el sur del mediterraneo!;;;;;;;;;x
+annex_luccas_title;English;French;German;Polish;Spanish;Italian;Swedish;Czech;Hungarian;Dutch;Portugese;Russian;Finnish;
+annex_luccas_desc;English;French;German;Polish;Spanish;Italian;Swedish;Czech;Hungarian;Dutch;Portugese;Russian;Finnish;
+XZ_annex_luccas_title;Solo Puede haber una Luccas! ;;;;;;;;;;;;;
+XZ_annex_luccas_desc;es hora de demostrar al Mundo quien es la verdadera luccas y acabar con esos herejes.;;;;;;;;;;;;;
+occitan;occitan;x;
+breton;breton;x;
+Lenstriana;Lenstriana;x;
+Galletones;Galletones;x;

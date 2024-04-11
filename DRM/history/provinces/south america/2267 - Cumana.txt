@@ -1,0 +1,6 @@
+owner = TEM
+controller = TEM
+add_core = TEM
+add_core = LNS
+trade_goods = fruit
+life_rating = 30

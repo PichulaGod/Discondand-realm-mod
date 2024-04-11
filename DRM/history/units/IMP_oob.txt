@@ -1,0 +1,87 @@
+leader = {
+	name = "Andres de Santa Cruz"
+	type = land
+	date = 1836.1.1
+	personality = arrogant
+	background = old_school
+}
+
+army = {
+	name = "Armada Imperialista"
+	location = 2279
+	regiment = {
+		name= "1. Fanteria di Linea - Re e Regina"
+		type = infantry
+		home = 2296
+	}
+
+    regiment = {
+		name= "3. fanteria di Linea"
+		type = infantry
+		home = 2296
+	}
+	
+	regiment = {
+		name= "2. Fanteria di Linea - Duca di Calabria"
+		type = infantry
+		home = 2393
+	}
+
+	regiment = {
+		name= "3. Fanteria di Linea - Duca di Noto"
+		type = infantry
+		home = 2393
+	}
+
+	regiment = {
+		name= "4. Fanteria di Linea"
+		type = artillery
+		home = 2393
+	}
+
+	regiment = {
+		name= "1. Cavalleria di Linea"
+		type = hussar
+		home = 2398
+	}
+
+	regiment = {
+		name= "2. artillery di Linea"
+		type = artillery
+		home = 2398
+	}
+
+	regiment = {
+		name= "3. artillery di Linea"
+		type = artillery
+		home = 2395
+	}
+
+regiment = {
+		name= "3. artillery di Linea"
+		type = artillery
+		home = 2365
+	}
+	
+	regiment = {
+		name= "3. artillery di Linea"
+		type = artillery
+		home = 2395
+	}
+}
+
+navy = {
+	name = "Marina de Guerra del Peru"
+	location = 2295
+	ship = {
+		name= "Monteagudo"
+		type = frigate
+	}
+
+	ship = {
+		name= "Santa Cruz"
+		type = frigate
+	}
+
+}
+

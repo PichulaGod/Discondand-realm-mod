@@ -1,0 +1,5 @@
+owner = TUE
+controller = TUE
+add_core = TUE
+trade_goods = wool
+life_rating = 15

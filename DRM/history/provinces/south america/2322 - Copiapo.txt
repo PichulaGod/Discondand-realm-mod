@@ -1,0 +1,6 @@
+owner = MEN
+controller = MEN
+add_core = MEN
+trade_goods = iron
+life_rating = 35
+1861.1.1 = { railroad = 1 }

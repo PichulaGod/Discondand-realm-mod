@@ -1,0 +1,5 @@
+owner = JUY
+controller = JUY
+add_core = JUY
+trade_goods = wool
+life_rating = 30

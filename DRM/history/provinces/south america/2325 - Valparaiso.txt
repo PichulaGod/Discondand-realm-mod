@@ -1,0 +1,10 @@
+owner = MEN
+controller = MEN
+add_core = MEN
+trade_goods = fruit
+life_rating = 35
+naval_base = 5
+1861.1.1 = { 
+	railroad = 1
+	naval_base = 1
+}
